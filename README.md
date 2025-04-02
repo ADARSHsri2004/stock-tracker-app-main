@@ -36,7 +36,7 @@ Stock Graph Feature
 ![ScreenShot_StockGraph](./client/src/assets/images/ScreenShot_StockGraph.png)
 
 
-Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at ryan.rotman@gmail.com.
+Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at adarshsri619@gmail.com.
 
 <!-- # Getting Started with Create React App
 
